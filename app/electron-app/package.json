@@ -1,0 +1,15 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/kamalnarra/plover.git",
+  "author": "kamalnarra",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "electron": "^27.0.3"
+  }
+}
