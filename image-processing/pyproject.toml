@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "image-processing"
+version = "0.1.0"
+description = ""
+authors = ["Kamal Narra <kamalnarra1@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.11"
+opencv-python = "^4.8.1.78"
+tensorflow = "^2.14.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
